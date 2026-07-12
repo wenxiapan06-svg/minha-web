@@ -24,7 +24,6 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: false,
-      url: "https://github.com/wenxiapan06-svg/minha-web/edit/main/",
     },
     search: "pagefind",
   },
