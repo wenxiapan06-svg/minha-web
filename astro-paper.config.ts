@@ -4,7 +4,7 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://melodic-salmiakki-8b3a16.netlify.app/",
     title: "Minha",
-    description: "Personal brand website of Minha.",
+    description: "Personal brand website of Minha. ",
     author: "Minha",
     profile: "https://melodic-salmiakki-8b3a16.netlify.app/",
     ogImage: "default-og.jpg",
